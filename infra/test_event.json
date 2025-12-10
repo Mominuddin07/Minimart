@@ -1,0 +1,13 @@
+﻿{
+    "version": "2.0",
+    "routeKey": "$default",
+    "rawPath": "/products",
+    "requestContext": {
+      "http": {
+        "method": "GET",
+        "path": "/products",
+        "sourceIp": "127.0.0.1" 
+      }
+    }
+  }
+  

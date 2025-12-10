@@ -1,0 +1,190 @@
+{
+  "products": [
+    {
+      "id": "cpu_i5_12600k",
+      "name": "Intel Core i5-12600K",
+      "price": 249.99,
+      "image": "/assets/products/Intel Core i5-12600K.jpg",
+      "category": "CPU",
+      "rating": 4.5,
+      "reviews": 1234
+    },
+    {
+      "id": "cpu_i7_13700k",
+      "name": "Intel Core i7-13700K",
+      "price": 399.99,
+      "image": "/assets/products/Intel Core i7-13700K.jpg",
+      "category": "CPU",
+      "rating": 4.7,
+      "reviews": 2156
+    },
+    {
+      "id": "cpu_i9_13900k",
+      "name": "Intel Core i9-13900K",
+      "price": 589.99,
+      "image": "/assets/products/Intel Core i9-13900K.jpg",
+      "category": "CPU",
+      "rating": 4.8,
+      "reviews": 3421
+    },
+
+    {
+      "id": "ryzen_7_5800x",
+      "name": "AMD Ryzen 7 5800X",
+      "price": 299.99,
+      "image": "/assets/products/AMD Ryzen 7 5800X.jpg",
+      "category": "CPU",
+      "rating": 4.6,
+      "reviews": 1890
+    },
+    {
+      "id": "ryzen_9_7950x",
+      "name": "AMD Ryzen 9 7950X",
+      "price": 549.99,
+      "image": "/assets/products/AMD Ryzen 9 7950X.jpg",
+      "category": "CPU",
+      "rating": 4.9,
+      "reviews": 2876
+    },
+
+    {
+      "id": "gpu_rtx_3060",
+      "name": "NVIDIA RTX 3060",
+      "price": 329.99,
+      "image": "/assets/products/NVIDIA RTX 3060.jpg",
+      "category": "GPU",
+      "rating": 4.4,
+      "reviews": 5678
+    },
+    {
+      "id": "gpu_rtx_4070_ti",
+      "name": "NVIDIA RTX 4070 Ti",
+      "price": 799.99,
+      "image": "/assets/products/NVIDIA RTX 4070 Ti.jpg",
+      "category": "GPU",
+      "rating": 4.7,
+      "reviews": 3421
+    },
+    {
+      "id": "gpu_rtx_4090",
+      "name": "NVIDIA RTX 4090",
+      "price": 1599.99,
+      "image": "/assets/products/NVIDIA RTX 4090.jpg",
+      "category": "GPU",
+      "rating": 4.9,
+      "reviews": 8923
+    },
+    {
+      "id": "gpu_rx_6800",
+      "name": "AMD Radeon RX 6800",
+      "price": 579.99,
+      "image": "/assets/products/AMD Radeon RX 6800.jpg",
+      "category": "GPU",
+      "rating": 4.5,
+      "reviews": 2345
+    },
+    {
+      "id": "gpu_arc_a770",
+      "name": "Intel Arc A770",
+      "price": 349.99,
+      "image": "/assets/products/Intel Arc A770.jpg",
+      "category": "GPU",
+      "rating": 4.2,
+      "reviews": 1234
+    },
+
+    {
+      "id": "laptop_macbook_air_m2",
+      "name": "MacBook Air M2",
+      "price": 1099.99,
+      "image": "/assets/products/MacBook Air M2.jpg",
+      "category": "Laptop",
+      "rating": 4.8,
+      "reviews": 12345
+    },
+    {
+      "id": "laptop_dell_xps_13",
+      "name": "Dell XPS 13",
+      "price": 999.99,
+      "image": "/assets/products/Dell XPS 13.jpg",
+      "category": "Laptop",
+      "rating": 4.6,
+      "reviews": 6789
+    },
+    {
+      "id": "laptop_lenovo_legion_5",
+      "name": "Lenovo Legion 5",
+      "price": 1299.99,
+      "image": "/assets/products/Lenovo Legion 5.jpg",
+      "category": "Laptop",
+      "rating": 4.7,
+      "reviews": 4567
+    },
+    {
+      "id": "laptop_slim_9i",
+      "name": "Intel EVO Slim 9i",
+      "price": 1199.99,
+      "image": "/assets/products/Intel EVO Slim 9i.jpg",
+      "category": "Laptop",
+      "rating": 4.5,
+      "reviews": 2345
+    },
+
+    {
+      "id": "ssd_samsung_980_pro",
+      "name": "Samsung 980 Pro SSD",
+      "price": 129.99,
+      "image": "/assets/products/Samsung 980 Pro.jpg",
+      "category": "SSD",
+      "rating": 4.8,
+      "reviews": 9876
+    },
+    {
+      "id": "ssd_wd_sn850x",
+      "name": "WD Black SN850X",
+      "price": 149.99,
+      "image": "/assets/products/WD Black SN850X.jpg",
+      "category": "SSD",
+      "rating": 4.7,
+      "reviews": 5432
+    },
+
+    {
+      "id": "sony_wh1000xm5",
+      "name": "Sony WH-1000XM5",
+      "price": 349.99,
+      "image": "/assets/products/Sony WH-1000XM5.jpg",
+      "category": "Headphones",
+      "rating": 4.9,
+      "reviews": 15678
+    },
+    {
+      "id": "bose_qc45",
+      "name": "Bose QC45",
+      "price": 329.99,
+      "image": "/assets/products/Bose QC45.jpg",
+      "category": "Headphones",
+      "rating": 4.6,
+      "reviews": 8765
+    },
+
+    {
+      "id": "keyboard_mx_mechanical",
+      "name": "Logitech MX Mechanical",
+      "price": 159.99,
+      "image": "/assets/products/Logitech MX Mechanical.jpg",
+      "category": "Keyboard",
+      "rating": 4.5,
+      "reviews": 4321
+    },
+    {
+      "id": "mouse_razer_deathadder_v3",
+      "name": "Razer DeathAdder V3",
+      "price": 69.99,
+      "image": "/assets/products/Razer DeathAdder V3.jpg",
+      "category": "Mouse",
+      "rating": 4.7,
+      "reviews": 6543
+    }
+  ]
+}

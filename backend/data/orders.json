@@ -1,0 +1,74 @@
+{
+    "orders": [
+        {
+            "orderId": "ORD-680582",
+            "name": "Mohammed Mominuddin",
+            "email": "mominuddin.mohammed@sjsu.edu",
+            "phone": "2098346821",
+            "address": "1300 The Alameda, San Jose, CA 95126",
+            "items": [
+                {
+                    "id": "cpu_i7_13700k",
+                    "qty": 1
+                }
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "orderId": "ORD-413333",
+            "name": "Mohammed Mominuddin",
+            "email": "mominuddin.mohammed@sjsu.edu",
+            "phone": "2098346821",
+            "address": "1300 The Alameda, San Jose, CA 95126",
+            "items": [
+                {
+                    "id": "ryzen_7_5800x",
+                    "qty": 1
+                }
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "orderId": "ORD-945164",
+            "name": "Mohammed Mominuddin",
+            "email": "mominuddin.mohammed@sjsu.edu",
+            "phone": "2098346821",
+            "address": "1300 The Alameda, San Jose, CA 95126",
+            "items": [
+                {
+                    "id": "gpu_arc_a770",
+                    "qty": 1
+                }
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "orderId": "ORD-485480",
+            "name": "Mohammed Mominuddin",
+            "email": "mominuddin.mohammed@sjsu.edu",
+            "phone": "2098346821",
+            "address": "1300 The Alameda, San Jose, CA 95126",
+            "items": [
+                {
+                    "id": "cpu_i9_13900k",
+                    "qty": 1
+                }
+            ],
+            "status": "COMPLETED"
+        },
+        {
+            "orderId": "ORD-613803",
+            "name": "Mohammed Mominuddin",
+            "email": "mominuddin.mohammed@sjsu.edu",
+            "phone": "2098346821",
+            "address": "1300 The Alameda, San Jose, CA 95126",
+            "items": [
+                {
+                    "id": "cpu_i7_13700k",
+                    "qty": 1
+                }
+            ],
+            "status": "COMPLETED"
+        }
+    ]
+}
