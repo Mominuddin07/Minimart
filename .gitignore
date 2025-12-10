@@ -1,18 +1,10 @@
-# Terraform
-.terraform/
+﻿.terraform/
 terraform.tfstate
 terraform.tfstate.backup
-
-# Lambda generated files
 lambda_api.zip
 lambda_api_v2.zip
 lambda_worker.zip
-
-# Python virtual environment
 venv/
 .venv/
-
-# OS files
 .DS_Store
 Thumbs.db
-
